@@ -1,3 +1,9 @@
 Acessar detalhes do veiculo de outro usuário.
 
+Para resolver o desafio, você precisa vazar informações confidenciais do veículo de outro usuário.
+
+Como os IDs de veículos não são números sequenciais, mas GUIDs, você precisa encontrar uma maneira de expor o ID do veículo de outro usuário.
+
+Encontre um endpoint de API que receba um ID de veículo e retorne informações sobre ele.
+
 
