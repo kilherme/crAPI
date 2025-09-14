@@ -1,2 +1,3 @@
 Desafio 5 - Encontrar um endpoint de API que vaze uma propriedade interna de um vídeo
-Neste desafio, você precisa encontrar uma propriedade interna do recurso de vídeo que não deve ser exposta ao usuário. O nome e o valor dessa propriedade podem ajudar você a explorar outras vulnerabilidades.
+Neste desafio, você precisa encontrar uma propriedade interna do recurso de vídeo que não deve ser exposta ao usuário. 
+O nome e o valor dessa propriedade podem ajudar você a explorar outras vulnerabilidades.
