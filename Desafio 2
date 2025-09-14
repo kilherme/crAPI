@@ -1,0 +1,9 @@
+Desafio 2 - Acessar relatórios de mecânicos de outros usuários
+
+A crAPI permite que proprietários de veículos entrem em contato com seus mecânicos enviando um formulário de "contato com mecânico". Este desafio consiste em acessar relatórios de mecânicos enviados por outros usuários.
+
+Analisar o processo de envio de relatórios
+
+Encontrar um endpoint oculto da API que exponha detalhes de um relatório de mecânico
+
+Alterar o ID do relatório para acessar outros relatórios
