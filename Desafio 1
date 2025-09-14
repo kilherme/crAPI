@@ -7,3 +7,23 @@ Como os IDs de veículos não são números sequenciais, mas GUIDs, você precis
 Encontre um endpoint de API que receba um ID de veículo e retorne informações sobre ele.
 
 
+http://localhost:8888/identity/api/v2/vehicle/ffe6ab15-f293-463b-b4b2-13e0246094ab/location
+CarID do Meu carro
+ffe6ab15-f293-463b-b4b2-13e0246094ab
+
+http://localhost:8888/community/api/v2/community/posts/recent?limit=30&offset=0
+
+
+
+carId:   4bae9968-ec7f-4de3-a3a0-ba1b2ab5e5e5
+fullName: "Robot"
+email: "robot001@example.com"
+
+
+carId: "cd515c12-0fc1-48ae-8b61-9230b70a845b"
+fullName: "Pogba"
+email: "pogba006@example.com"
+
+carId: "f89b5f21-7829-45cb-a650-299a61090378",
+fullName: "Adam"
+email: "adam007@example.com"
