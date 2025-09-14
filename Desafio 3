@@ -10,6 +10,9 @@ pogba006@example.com
 adam007@example.com
 
 Solicitar o OTP das 3 senhas antes!
+POST
+http://localhost:8888/identity/api/auth/forget-password
+{"email":"EMAILS"}
 
 OWASP ZAP
 
