@@ -36,6 +36,7 @@ GET http://localhost:8888/workshop/api/mechanic/mechanic_report?report_id=10
     "problem_details": "My car BMW - 5 Series is having issues.\nCan you give me a call on my mobile 9876570001,\nOr send me an email at robot001@example.com\nThanks,\nRobot.\n",
     "status": "pending",
     "created_on": "01 September, 2025, 20:30:29"
+}
 
 
 {
