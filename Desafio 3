@@ -9,6 +9,8 @@ robot001@example.com
 pogba006@example.com
 adam007@example.com
 
+Solicitar o OTP das 3 senhas antes!
+
 OWASP ZAP
 
 POST http://localhost:8888/identity/api/auth/v2/check-otp HTTP/1.1
