@@ -2,3 +2,7 @@ Desafio 5 - Encontrar um endpoint de API que vaze uma propriedade interna de um 
 Neste desafio, você precisa encontrar uma propriedade interna do recurso de vídeo que não deve ser exposta ao usuário. 
 O nome e o valor dessa propriedade podem ajudar você a explorar outras vulnerabilidades.
 
+http://localhost:8888/identity/api/v2/user/videos/convert_video?video_id=52
+video_id=52
+
+{"message":"Thi-S endpoint S-hould be accessed only inte-Rnally. -Fine? , endpoint_url http://crapi-identity:8080/identity/api/v2/user/videos/convert_video","status":403}
