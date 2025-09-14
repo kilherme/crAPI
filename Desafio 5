@@ -5,4 +5,8 @@ O nome e o valor dessa propriedade podem ajudar você a explorar outras vulnerab
 http://localhost:8888/identity/api/v2/user/videos/convert_video?video_id=52
 video_id=52
 
+Postman 
+PUT http://localhost:8888/identity/api/v2/user/videos/52
+BODY {"videoName":"dog.avi"}
+
 {"message":"Thi-S endpoint S-hould be accessed only inte-Rnally. -Fine? , endpoint_url http://crapi-identity:8080/identity/api/v2/user/videos/convert_video","status":403}
