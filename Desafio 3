@@ -1,0 +1,5 @@
+Desafio 3 - Redefinir a senha de um usuário diferente
+
+Encontrar o endereço de e-mail de outro usuário na crAPI
+
+Força bruta pode ser a solução. Se você enfrentar algum mecanismo de proteção, lembre-se de aproveitar a natureza previsível das APIs REST para encontrar endpoints de API mais semelhantes.
